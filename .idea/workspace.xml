@@ -1,24 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d20ecc3a-7176-4a51-9c29-8b3d6d5ed684" name="Default Changelist" comment="Header, Form, PokemonList split into separate components">
-      <change afterPath="$PROJECT_DIR$/src/Components/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/App.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Form/Form.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Form/Form.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Header/Header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/Header/Header.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/PokemonList/PokemonList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/PokemonList/PokemonList.scss" afterDir="false" />
+    <list default="true" id="d20ecc3a-7176-4a51-9c29-8b3d6d5ed684" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/App.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/PokemonList/PokemonList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/PokemonList/PokemonList.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +72,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583954638073</updated>
-      <workItem from="1583954639535" duration="5999000" />
+      <workItem from="1583954639535" duration="7475000" />
     </task>
     <task id="LOCAL-00001" summary="ignore idea folder">
       <created>1583959795342</created>
@@ -114,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583960145044</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Header, Form, PokemonList split into separate components">
+      <created>1583964928171</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1583964928171</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,10 +125,10 @@
       <screen x="0" y="23" width="1440" height="820" />
     </state>
     <state x="458" y="187" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.820@0.23.1440.820" timestamp="1583960357556" />
-    <state x="303" y="36" key="CommitChangelistDialog2" timestamp="1583964889215">
+    <state x="303" y="36" key="CommitChangelistDialog2" timestamp="1583966708011">
       <screen x="0" y="23" width="1440" height="820" />
     </state>
-    <state x="303" y="36" key="CommitChangelistDialog2/0.23.1440.820@0.23.1440.820" timestamp="1583964889215" />
+    <state x="303" y="36" key="CommitChangelistDialog2/0.23.1440.820@0.23.1440.820" timestamp="1583966708011" />
     <state x="221" y="72" key="SettingsEditor" timestamp="1583960035858">
       <screen x="0" y="23" width="1440" height="820" />
     </state>
